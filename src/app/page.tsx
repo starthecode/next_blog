@@ -12,7 +12,7 @@ export default function Home() {
           <div className="bg-blue-600 bg-opacity-95 p-5 opacity-90 backdrop-blur-lg lg:p-12">
             <p className="mb-4 font-serif font-light">August 03, 2022</p>
             <h2 className="font-serif text-4xl font-bold">
-              Leading the next generation of innovators
+              This is my first blog site deployed on microsoft azure.
             </h2>
             <a
               href="#"
